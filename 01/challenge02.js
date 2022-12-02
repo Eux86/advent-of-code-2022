@@ -1,4 +1,4 @@
-import input from '../01/input.js';
+import input from './input.js';
 
 const values = input.split('\n');
 
